@@ -1,1 +1,1 @@
-# git-repo
+print("hello world")
